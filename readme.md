@@ -14,7 +14,7 @@ pip install Strawberrypie
 > example 
 ```
 from tkinter import *
-from strawberrypie import Pie ,Center_root,Btn ,Tfield,colors_ch
+from strawberrypie import Pie ,Center_root,Btn ,Tfield,color_ch
 
 root = Tk()
 
