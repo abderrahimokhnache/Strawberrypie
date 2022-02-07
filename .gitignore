@@ -1,0 +1,6 @@
+dist
+build
+Strawberrypie.egg-info
+*.pyc
+*.txt
+setup.py
